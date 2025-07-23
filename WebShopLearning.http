@@ -1,0 +1,6 @@
+@WebShopLearning_HostAddress = http://localhost:5230
+
+GET {{WebShopLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
