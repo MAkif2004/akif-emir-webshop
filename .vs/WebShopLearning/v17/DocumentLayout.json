@@ -1,54 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\",
+  "WorkspaceRootPath": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\migrations\\20250723182423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:migrations\\20250723182423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\migrations\\webshoplearningdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\migrations\\webshoplearningdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:migrations\\webshoplearningdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\migrations\\20250723182423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:migrations\\20250723182423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\webshoplearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:webshoplearning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\models\\webshoplearningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:models\\webshoplearningdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\documents\\akif-emir-webshop\\akif-emir-webshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|c:\\users\\akif\\source\\repos\\webshoplearning\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8C84464-2C13-4C6A-AEAD-527EF519D670}|WebShopLearning.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,152 +34,85 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250723182423_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Migrations\\20250723182423_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250723182423_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Migrations\\20250723182423_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250723182423_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T18:24:31.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebShopLearningDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Migrations\\WebShopLearningDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\WebShopLearningDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Migrations\\WebShopLearningDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\WebShopLearningDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T18:24:29.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:23:07.098Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:47:21.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:15:34.581Z"
+              "WhenOpened": "2025-09-10T09:33:23.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:46:38.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WebShopLearning.csproj",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\WebShopLearning.csproj",
-              "RelativeDocumentMoniker": "WebShopLearning.csproj",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\WebShopLearning.csproj",
-              "RelativeToolTip": "WebShopLearning.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-23T15:46:05.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebShopLearningDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Models\\WebShopLearningDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\WebShopLearningDbContext.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Models\\WebShopLearningDbContext.cs",
-              "RelativeToolTip": "Models\\WebShopLearningDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:38:47.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:29:10.697Z"
+              "WhenOpened": "2025-09-10T09:33:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250723182423_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Migrations\\20250723182423_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250723182423_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Migrations\\20250723182423_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250723182423_InitialCreate.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:28:16.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebShopLearningDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Migrations\\WebShopLearningDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\WebShopLearningDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Migrations\\WebShopLearningDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\WebShopLearningDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:28:10.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T15:12:25.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T14:21:21.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Akif\\source\\repos\\WebShopLearning\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:27:02.411Z"
+              "WhenOpened": "2025-09-10T09:28:01.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Akif\\Documents\\akif-emir-webshop\\akif-emir-webshop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:28:00.148Z",
+              "EditorCaption": ""
             }
           ]
         }

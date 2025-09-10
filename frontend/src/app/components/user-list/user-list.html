@@ -1,0 +1,23 @@
+<h2>All Users</h2>
+<table>
+  <thead>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    @for (user of users; track user.email) {
+      <td>{{ user.id }}</td>
+      <td>{{ user.first_name }}</td>
+      <td>{{ user.last_name }}</td>
+      <td>{{ user.email }}</td>
+      <td>{{ user.password }}</td>
+      <td>{{ user.number }}</td>
+    }
+  </tr>
+  </tbody>
+</table>
+

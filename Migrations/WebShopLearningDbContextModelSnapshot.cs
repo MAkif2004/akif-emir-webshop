@@ -21,6 +21,31 @@ namespace WebShopLearning.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
+            modelBuilder.Entity("WebShopLearning.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(65,30)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Product");
+                });
+
             modelBuilder.Entity("WebShopLearning.Models.User", b =>
                 {
                     b.Property<int>("id")
@@ -51,6 +76,17 @@ namespace WebShopLearning.Migrations
                     b.HasKey("id");
 
                     b.ToTable("User");
+                });
+
+            modelBuilder.Entity("WebShopLearning.Models.Product", b =>
+                {
+                    b.HasOne("WebShopLearning.Models.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
                 });
 #pragma warning restore 612, 618
         }

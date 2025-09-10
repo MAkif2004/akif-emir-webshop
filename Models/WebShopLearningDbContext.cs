@@ -10,5 +10,6 @@ namespace WebShopLearning.Models
 
         // Register the classes
         public DbSet<User> User {  get; set; }
+        public DbSet<Product> Product {  get; set; }
     }
 }
